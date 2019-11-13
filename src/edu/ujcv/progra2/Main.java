@@ -19,10 +19,9 @@ import java.util.Optional;
 public class Main {
 
     public static void main(String[] args) throws IOException {
-
        AlumnosController ac= new AlumnosController();
        ac.presentMenuObtenerResultado();
-       ac.presentarListaAlumnos();
+
 
     }
 

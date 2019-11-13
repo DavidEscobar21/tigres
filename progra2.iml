@@ -20,5 +20,7 @@
         <jarDirectory url="file://$USER_HOME$/Downloads/super-csv-distribution-2/super-csv" recursive="false" type="SOURCES" />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="src" level="project" />
+    <orderEntry type="library" name="super-csv-2.4.0" level="project" />
   </component>
 </module>
